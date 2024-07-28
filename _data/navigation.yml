@@ -3,8 +3,12 @@
 
 main:
    - title: "검색"
-       url: "/search/"
-   - title: "About"
-       url: "/about/"
-   - title: "블로그 만들기"
-       url: "/posts/"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
