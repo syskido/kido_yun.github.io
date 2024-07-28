@@ -2,22 +2,9 @@
 #main links
 
 main:
-   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
-
-
-  # - title: "검색"
-  #  url: "/search/"
-  # - title: "About"
-  #  url: /about/
-  # - title: "블로그 만들기"
-  #  url: /MakingBlog/
+   - title: "검색"
+       url: " / "
+   - title: "About"
+       url: /about/
+   - title: "블로그 만들기"
+       url: /posts/
