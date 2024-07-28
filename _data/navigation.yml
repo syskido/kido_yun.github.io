@@ -3,7 +3,7 @@
 
 main:
    - title: "검색"
-   - url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
