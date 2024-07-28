@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "YUN-KI-DO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : c:\Users\syskido\OneDrive\사진\kido.jpg
   bio              : "I am an **amazing** person."
   location         : "기도[kido]노트"
   email            :
